@@ -1,0 +1,19 @@
+{
+  "name": "demos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "codecept.conf.js",
+  "dependencies": {
+    "codeceptjs": "^3.2.2"
+  },
+  "devDependencies": {
+    "@wdio/selenium-standalone-service": "^7.16.11",
+    "webdriverio": "^6.12.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
